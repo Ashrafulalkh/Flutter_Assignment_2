@@ -60,7 +60,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: Text(
                     'My Bag',
                     style: TextStyle(
-                      fontSize: orientation == Orientation.portrait ? 45 : 22,
+                      fontSize: orientation == Orientation.portrait ? 45 : 28,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
@@ -308,7 +308,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   child: Text(
                     'My Bag',
                     style: TextStyle(
-                      fontSize: orientation == Orientation.portrait ? 45 : 22,
+                      fontSize: orientation == Orientation.portrait ? 45 : 28,
                       fontWeight: FontWeight.bold,
                     ),
                   ),
